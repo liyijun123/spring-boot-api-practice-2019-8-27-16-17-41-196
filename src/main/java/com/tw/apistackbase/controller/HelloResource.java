@@ -1,3 +1,4 @@
+
 package com.tw.apistackbase.controller;
 
 import org.springframework.http.ResponseEntity;
@@ -20,4 +21,3 @@ public class HelloResource {
     }
 
 
-}
